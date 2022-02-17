@@ -20,7 +20,7 @@ Init wil create the repository in the current directory and will encapsulate all
 
 ## Resources
 
--[Git Init Documentation](https://gitscm.com/docs/git-init)
+- [Git Init Documentation](https://gitscm.com/docs/git-init)
 
 ---
 
